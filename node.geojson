@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "node": "d75c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.770482540130615,
+          56.16168367434202
+        ]
+      }
+    }
+  ]
+}
