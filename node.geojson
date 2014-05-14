@@ -4,8 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "node": "d75c"
-      },
+        "node": "d75c",
+        "maintainer": "HTS",
+        "contact": "willeponken@gmail.com"
+        },
       "geometry": {
         "type": "Point",
         "coordinates": [
