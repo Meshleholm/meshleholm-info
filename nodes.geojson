@@ -6,7 +6,9 @@
       "properties": {
         "node": "d75c",
         "maintainer": "HTS",
-        "contact": "willeponken@gmail.com"
+        "location": "Stobygatan 7, 281 39 Hässleholm",
+        "contact": "willeponken@gmail.com",
+        "comment": ""
         },
       "geometry": {
         "type": "Point",
