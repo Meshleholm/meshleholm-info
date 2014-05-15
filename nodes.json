@@ -1,0 +1,18 @@
+{ "nodes": [
+  {
+    "name": "8db2",
+    "ipv6": "fc62:c4c2:288c:3c20:5c55:c4e4:f2ca:8db2",
+    "maintainer": "willeponken",
+    "location": "Willeponken's laptop",
+    "contact": "willeponken@gmail.com",
+    "comment": "Just a test lappie"
+  },
+  {
+    "name": "03df",
+    "ipv6": "fc1a:23c1:bdcc:620e:8599:7345:ef6a:03df",
+    "maintainer": "HTS",
+    "location": "Stobygatan 7, 281 39 Hässleholm",
+    "contact": "willeponken@gmail.com",
+    "comment": ""
+  }
+]}
