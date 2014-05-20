@@ -32,19 +32,19 @@
     "comment": "Just a test lappie"
   },
   {
-    "name": "d75c",
-    "ipv6": "fc29:007a:0d99:297b:2127:5b3c:aaec:d75c",
-    "maintainer": "William Wennerström",
-    "location": "Ireland, EU-West",
-    "contact": "willeponken[at]gmail.com",
-    "comment": "Amazon AWS"
-  },
-  {
     "name": "d2c3",
     "ipv6": "fc5a:a3b9:6e84:cfb7:21ac:5b1e:371b:d2c3",
     "maintainer": "Petrus Lundberg",
     "location": "New York, United States",
     "contact": "petruslundberg[at]gmail.com",
     "comment": "DigitalOcean"
+  },
+  {
+    "name": "d75c",
+    "ipv6": "fc29:007a:0d99:297b:2127:5b3c:aaec:d75c",
+    "maintainer": "William Wennerström",
+    "location": "Ireland, EU-West",
+    "contact": "willeponken[at]gmail.com",
+    "comment": "Amazon AWS"
   }
 ]}
