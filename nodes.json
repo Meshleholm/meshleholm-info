@@ -1,13 +1,5 @@
 { "nodes": [
   {
-    "name": "8db2",
-    "ipv6": "fc62:c4c2:288c:3c20:5c55:c4e4:f2ca:8db2",
-    "maintainer": "William Wennerström",
-    "location": "Willeponken's laptop",
-    "contact": "willeponken[at]gmail.com",
-    "comment": "Just a test lappie"
-  },
-  {
     "name": "03df",
     "ipv6": "fc1a:23c1:bdcc:620e:8599:7345:ef6a:03df",
     "maintainer": "Petrus Lundberg, William Wennerström",
@@ -30,5 +22,21 @@
     "location": "Perstorp, Sweden",
     "contact": "petruslundberg[at]gmail.com",
     "comment": ""
+  },
+  {
+    "name": "d2c3",
+    "ipv6": "fc5a:a3b9:6e84:cfb7:21ac:5b1e:371b:d2c3",
+    "maintainer": "Petrus Lundberg",
+    "location": "New York, United States",
+    "contact": "petruslundberg[at]gmail.com",
+    "comment": "DigitalOcean"
+  },
+  {
+    "name": "8db2",
+    "ipv6": "fc62:c4c2:288c:3c20:5c55:c4e4:f2ca:8db2",
+    "maintainer": "William Wennerström",
+    "location": "Willeponken's laptop",
+    "contact": "willeponken[at]gmail.com",
+    "comment": "Just a test lappie"
   }
 ]}
