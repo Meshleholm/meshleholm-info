@@ -23,13 +23,21 @@
     "contact": "petruslundberg[at]gmail.com",
     "comment": ""
   },
-    {
+  {
     "name": "8db2",
     "ipv6": "fc62:c4c2:288c:3c20:5c55:c4e4:f2ca:8db2",
     "maintainer": "William Wennerström",
     "location": "Willeponken's laptop",
     "contact": "willeponken[at]gmail.com",
     "comment": "Just a test lappie"
+  },
+  {
+    "name": "d75c",
+    "ipv6": "fc29:007a:0d99:297b:2127:5b3c:aaec:d75c",
+    "maintainer": "William Wennerström",
+    "location": "Ireland, EU-West",
+    "contact": "willeponken[at]gmail.com",
+    "comment": "Amazon AWS"
   },
   {
     "name": "d2c3",
